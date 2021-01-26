@@ -1,0 +1,44 @@
+{
+  "bg": "https://cdn.pixabay.com/photo/2017/07/31/03/39/colorful-2556353_960_720.jpg",
+  "title": "Chacras Quiz",
+  "description": "Teste os seus conhecimentos sobre chacras",
+  "questions": [
+    {
+      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "title": "Você sabe o que é um chacra e quais são os principais?",
+      "description": "Essa é pra aquecer",
+      "answer": 2,
+      "alternatives": [
+        ".elemento",
+        "*elemento",
+        "#elemento",
+        "%elemento"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "title": "Você consegue perceber a energia pulsando em seus chacras?",
+      "description": "Preste atenção no seu corpo...",
+      "answer": 0,
+      "alternatives": [
+         "background: linear-gradient(#e66465, #9198e5);",
+         "background: gradient(#e66465, #9198e5);"
+      ]
+    }
+  ],
+  "external": [
+    ""
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#a10d61",
+      "secondary": "#f629ca",
+      "mainBg": "#351734",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50",
+      "git": "#bd4dae"
+    },
+    "borderRadius": "4px"
+  }
+}
