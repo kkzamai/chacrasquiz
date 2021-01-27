@@ -1,28 +1,42 @@
 {
   "bg": "https://cdn.pixabay.com/photo/2017/07/31/03/39/colorful-2556353_960_720.jpg",
-  "title": "Chacras Quiz",
-  "description": "Teste os seus conhecimentos sobre chacras",
+  "title": "Chakras Quiz",
+  "description": "Teste os seus conhecimentos sobre chakras",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Você sabe o que é um chacra e quais são os principais?",
+      "image": "https://media.giphy.com/media/xUOxfk9LqWzH6MHRJu/giphy.gif",
+      "title": "Você sabe o que é um chakra?",
       "description": "Essa é pra aquecer",
-      "answer": 2,
+      "answer": 4,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Os chakras são centros energéticos distribuídos pelo corpo",
+        "A palavra chakra vem do sânscrito e significa roda, disco, centro ou plexo",
+        "Os sete principais chakras localizam-se da base da coluna vertebral até o alto da cabeça e cada um corresponde a uma das sete principais glândulas do corpo humano",
+        "Todas as alternativas"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Você consegue perceber a energia pulsando em seus chacras?",
-      "description": "Preste atenção no seu corpo...",
-      "answer": 0,
+      "image": "https://media.giphy.com/media/3o7btZoVgyEXyNO4gg/giphy.gif",
+      "title": "Quais os principais chakras?",
+      "description": "Preste atenção na sua energia corporal...",
+      "answer": 1,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "Coronário, Frontal, Laríngeo, Cardíaco, Umbilical, Sacro, Básico",
+         "Coronário, Frontal,  Cardíaco, Umbilical, Básico",
+         "Coronário, Cardíaco, Umbilical, Sacro, Básico"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/l0Iy05dnDgLvW99ni/giphy.gif",
+      "title": "Quais alternativas diz respeito ao chakra cardíaco?",
+      "description": "Preste atenção no seu coração...",
+      "answer": 5,
+      "alternatives": [
+         "Fica no centro do peito, próximo ao coração e está relacionada à glândula timo.",
+         "Rege as trocas afetivas, compaixão, alegria, gratidão e outros sentimentos positivos.",
+         "O que mais enfraquece este chakra é a magoa e os ressentimentos. ",
+         "Em desequilíbrio causa rancor, egoísmo, dificuldade em perdoar, inibe as relações afetivas e pode causar problemas cardíacos e imunológicos.",
+         "Todas alternativas"
       ]
     }
   ],
