@@ -7,7 +7,7 @@
       "image": "https://media.giphy.com/media/xUOxfk9LqWzH6MHRJu/giphy.gif",
       "title": "Você sabe o que é um chakra?",
       "description": "Essa é pra aquecer",
-      "answer": 4,
+      "answer": 3,
       "alternatives": [
         "Os chakras são centros energéticos distribuídos pelo corpo",
         "A palavra chakra vem do sânscrito e significa roda, disco, centro ou plexo",
@@ -19,7 +19,7 @@
       "image": "https://media.giphy.com/media/3o7btZoVgyEXyNO4gg/giphy.gif",
       "title": "Quais os principais chakras?",
       "description": "Preste atenção na sua energia corporal...",
-      "answer": 1,
+      "answer": 0,
       "alternatives": [
          "Coronário, Frontal, Laríngeo, Cardíaco, Umbilical, Sacro, Básico",
          "Coronário, Frontal,  Cardíaco, Umbilical, Básico",
@@ -30,18 +30,18 @@
       "image": "https://media.giphy.com/media/l0Iy05dnDgLvW99ni/giphy.gif",
       "title": "Quais alternativas diz respeito ao chakra cardíaco?",
       "description": "Preste atenção no seu coração...",
-      "answer": 5,
+      "answer": 4,
       "alternatives": [
          "Fica no centro do peito, próximo ao coração e está relacionada à glândula timo.",
          "Rege as trocas afetivas, compaixão, alegria, gratidão e outros sentimentos positivos.",
-         "O que mais enfraquece este chakra é a magoa e os ressentimentos. ",
+         "O que mais enfraquece este chakra é a mágoa e os ressentimentos. ",
          "Em desequilíbrio causa rancor, egoísmo, dificuldade em perdoar, inibe as relações afetivas e pode causar problemas cardíacos e imunológicos.",
          "Todas alternativas"
       ]
     }
   ],
   "external": [
-    ""
+    "https://aluraquiz-coffee.leonardot07.vercel.app/"
   ],
   "theme": {
     "colors": {
